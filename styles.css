@@ -13,11 +13,6 @@
   background-color: var(--main-color);
 }
 
-/* Navigation text */
-.navbar a {
-  color: white !important;
-}
-
 /* Page headings */
 h1, h2, h3 {
   color: var(--accent-color);
