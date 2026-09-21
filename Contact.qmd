@@ -1,0 +1,37 @@
+---
+title: "Contact"
+---
+
+# Let's Connect
+
+I would love to connect with other public health professionals,
+researchers, students, and organizations working to improve
+health outcomes and advance health equity.
+
+<div class="contact-container">
+
+<div class="contact-item">
+
+### ✉️ Email
+
+[Send a warm message](mailto:kimaya844@gmail.com)
+
+</div>
+
+<div class="contact-item">
+
+### 💼 LinkedIn
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/kimlac)
+
+</div>
+
+<div class="contact-item">
+
+### 💻 GitHub
+
+[View my GitHub](https://github.com/kimayalacey1)
+
+</div>
+
+</div>

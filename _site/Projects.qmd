@@ -1,0 +1,43 @@
+---
+title: "Projects"
+---
+# MHRC Mentoring Research Fellowship Program – Intern (May 2026-Present)
+
+The Association Between Insurance Type and Prenatal Care Utilization
+Authors: Kimaya Lacey, B.S., MPH; Natalie D. Hernandez-Green, PhD, MPH
+
+Affiliations: Morehouse School of Medicine; Morgan Maternal Health Research Coordinating Center
+
+Background:
+The Southeastern United States continues to experience elevated rates of maternal mortality and morbidity, a crisis compounded by structural challenges including high healthcare costs, inadequate public transit, and hospital closures. Health insurance functions as a key political determinant of health, with Medicaid serving as an essential pathway to prenatal, delivery, and postpartum care. The objective is to evaluate the association between the type of health insurance coverage and the timing of a pregnant woman's initial prenatal care visit.
+
+Methods:
+Population-based surveillance data were derived from the Maryland Pregnancy Risk Assessment Monitoring System (MD PRAMS) Phase 8 Codebook. Survey responses were converted into structured factor values using RStudio. Health insurance was categorized into three distinct levels: Public Insurance (Medicaid, CHIP), Private Insurance (employer-sponsored or commercial plans), and No Insurance (uninsured). Multiple Logistic Regression analysis was performed within RStudio to evaluate the odds of delayed prenatal care initiation while adjusting for federal poverty level (FPL) income.
+
+Results:
+The multivariable logistic regression analysis evaluated a sample size of N = 5,767. Having either public insurance (OR = 0.41, 95% CI: 0.28–0.60, p < 0.001) or private insurance (OR = 0.44, 95% CI: 0.29–0.63, p < 0.001) significantly reduced the odds of delayed prenatal care initiation compared to being uninsured. Both public and private insurance reduced the odds of delayed care by 56% to 59% relative to being uninsured, demonstrating that Medicaid matches private coverage in enabling timely entry into care. Only the highest income bracket (>400% FPL) significantly reduced the odds of delayed prenatal care (OR = 0.71, 95% CI: 0.60–0.84, p < 0.001). Low-to-moderate-income individuals (100%–400% FPL) faced odds of delayed care comparable to those living below the poverty line (<100% FPL).
+
+Conclusion & Implications:
+While insurance coverage effectively mitigates delays in accessing prenatal care, persistent income barriers affect individuals earning below 400% FPL regardless of coverage. Recommendations to address these disparities include streamlining presumptive Medicaid eligibility for immediate clinical access, expanding public insurance options, and engaging community health workers to address non-financial structural barriers. 
+
+
+# Virtual Data Science Summer Research Program – Intern (June 2024-July 2024)
+ 
+The Development of Serotonin 5-HT2A Receptor Ligands for Mental Diseases
+Authors: Aubria King, Kimaya Lacey, James Addo, PhD
+
+Affiliations: Spelman College
+
+Serotonin 5-HT2A receptor agonists, including psychedelic compounds, have demonstrated significant clinical potential for treating severe psychiatric disorders such as schizophrenia and depression. The primary objective of this computational study was to predict and discover novel 5-HT2A receptor ligands with optimal binding affinities (measured as pKi) to facilitate the development of new mental health therapeutics. To identify potential candidates, an independent database of existing 5-HT2A receptor pKi values was compiled using data from the open-source CHEMBL and ZINC15 databases. This dataset was imported into Weka to train and evaluate various regression and classification machine learning algorithms. The models were assessed based on statistical metrics, with the most successful being the Random Forest ($R^2 = 0.8369$) and IBK ($R^2 = 0.9309$) algorithms. Leveraging these highly robust predictive models, alongside Maestro for structural visualization, the study identified four highly promising novel compounds with predicted pKi values ranging from 7.075 to 7.574. These predicted binding affinities are competitive when benchmarked against known psychedelic 5-HT2A agonists such as N,N-Dimethyltryptamine (pKi: 6.59), Mescaline (pKi: 6.44), and Psilocybin (pKi: 5.46). In conclusion, by leveraging open-source databases and machine learning, this research successfully predicted several novel, high-confidence ligands for the 5-HT2A receptor. Future work will focus on acquiring these commercially available compounds to experimentally validate their receptor binding affinities in vitro.
+
+
+
+# Cancer Research Experience for Undergraduates – Intern (Denver, Colorado | June 2023-August 2023) 
+
+Investigating the relationship between TDO2 and AR in Triple-negative breast cancer
+Authors: Kimaya Lacey, Li-Wei Kuo, Nicole Spoelstra, Jennifer K. Richer, PhD
+
+Affiliations: University of Colorado Anschutz Medical Campus
+
+Triple Negative Breast Cancer (TNBC) is an aggressive type of cancer that makes up approximately 10-15% of all breast cancers. TNBC is diagnosed by a lack of expression of progesterone receptors (PR), estrogen receptor (ER), and no amplification of the gene encoding the HER2 protein. This subtype of cancer is known to spread quickly and have a high reoccurrence rate as metastatic disease within five years after initial diagnosis. The individuals more likely to be diagnosed with TNBC are African American women, women younger than forty, Hispanic women, and women with BRCA1 gene mutation. A few common symptoms of TNBC include breast swelling, discharge from the areolas, dimpling of the skin, and a lump under the arm. The Richer lab previously published that both Androgen Receptor (AR) and Tryptophan 2,3-dioxygenase (TDO2), which is a key enzyme participating in Tryptophan (TRP) catabolism pathway, increased cells are surviving under anchorage-independent conditions.  Interestingly, the Lehman group in a comprehensive TNBC sequencing study found that the luminal AR positive subset of TNBC presented a TRP catabolism pathway gene signature, which implicated a connection between AR and TRP catabolism. Two other manuscripts also found TRP catabolism pathway genes to be highly expressed in AR+ TNBC, although they did not focus on this pathway in these manuscripts. TDO2 catabolizes TRP to kynurenine, which serves as a ligand for the aryl hydrocarbon receptor (AhR). I observed that TNBC with high endogenous TDO2 expression tended to have high expression of AR . Also, recent studies demonstrated AhR inhibitor (CH223191) can reduce translocation of AR to nuclear and AR promoter transcription activity in prostate cancers.  Therefore, I hypothesized that TDO2 and AR positively regulate the expression of each other, perhaps through AhR, and collaborate to promote TNBC progression.
+

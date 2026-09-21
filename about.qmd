@@ -1,0 +1,32 @@
+---
+title: "The Woman Behind the Vision"
+
+about:
+  template: trestles
+  image: IMG_4404.jpg
+
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kimlac
+
+    - icon: github
+      text: GitHub
+      href: https://github.com/kimayalacey1
+---
+
+
+## Introducing Kimaya D. Lacey
+
+Kimaya is an aspiring healthcare administrator and data analyst. She was born and raised in the deep south home to the coastal waters, Savannah, Ga. 
+Growing up, Kimaya witnessed first-hand the conditions of living in an underprivileged community. Once she began high school, she already made the choice to leave a mark in every space she filled. A mind full of ideas and a heart contained with passion for serving her communities by bridging gaps in healthcare access and quality. 
+
+Outside of the classroom, Kimaya promotes health and wellness in her personal life daily. As a pre-diabetic, she has made a complete turnaround regarding her diet, physical exercise, and mental health. In the summer of 2025, Kimaya began a journey of running and spreads the joy of moving your body to everyone soul she encounters. Running allows her to feel free and complete milestones she didn't think her body was capable of achieving. Today she engages in discussions with her peers about how her journey hasn't been linear and continuing to discover the best version of herself. 
+
+If she could speak to her younger self, she would remind her that standing out is never a disadvantage; it is the catalyst for achieving your goals. All of your hard work will come to fruition. Most importantly, your light reaches further than you know, bringing warmth and joy to the people around you.
+
+
+
+<div style="text-align: center;">
+
+![](2026VisionBoard.png){width="75%"}

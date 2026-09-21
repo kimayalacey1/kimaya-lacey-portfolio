@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "The Woman Behind the Vision",
+    "section": "",
+    "text": "Kimaya is an aspiring healthcare administrator and data analyst. She was born and raised in the deep south home to the coastal waters, Savannah, Ga. Growing up, Kimaya witnessed first-hand the conditions of living in an underprivileged community. Once she began high school, she already made the choice to leave a mark in every space she filled. A mind full of ideas and a heart contained with passion for serving her communities by bridging gaps in healthcare access and quality.\nOutside of the classroom, Kimaya promotes health and wellness in her personal life daily. As a pre-diabetic, she has made a complete turnaround regarding her diet, physical exercise, and mental health. In the summer of 2025, Kimaya began a journey of running and spreads the joy of moving your body to everyone soul she encounters. Running allows her to feel free and complete milestones she didn’t think her body was capable of achieving. Today she engages in discussions with her peers about how her journey hasn’t been linear and continuing to discover the best version of herself.\nIf she could speak to her younger self, she would remind her that standing out is never a disadvantage; it is the catalyst for achieving your goals. All of your hard work will come to fruition. Most importantly, your light reaches further than you know, bringing warmth and joy to the people around you."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kimaya D. Lacey, B.S.",
+    "section": "",
+    "text": "Kimaya D. Lacey, B.S.\n\nA Master of Public Health student interested in maternal health, health equity, healthcare operations, and health policy.\nHer work focuses on understanding how healthcare systems can better support underserved populations and improve maternal and population health outcomes.\n\n\n\nMaternal Health\nResearch focused on prenatal and postpartum care, maternal mortality, and healthcare access.\n\n\n\nData & Biostatistics\nUsing data visualization and statistical methods to examine public health problems.\n\n\n\nHealthcare Systems\nExploring healthcare operations, policy, and strategies to improve patient outcomes."
+  },
+  {
+    "objectID": "about.html#introducing-kimaya-d.-lacey",
+    "href": "about.html#introducing-kimaya-d.-lacey",
+    "title": "The Woman Behind the Vision",
+    "section": "",
+    "text": "Kimaya is an aspiring healthcare administrator and data analyst. She was born and raised in the deep south home to the coastal waters, Savannah, Ga. Growing up, Kimaya witnessed first-hand the conditions of living in an underprivileged community. Once she began high school, she already made the choice to leave a mark in every space she filled. A mind full of ideas and a heart contained with passion for serving her communities by bridging gaps in healthcare access and quality.\nOutside of the classroom, Kimaya promotes health and wellness in her personal life daily. As a pre-diabetic, she has made a complete turnaround regarding her diet, physical exercise, and mental health. In the summer of 2025, Kimaya began a journey of running and spreads the joy of moving your body to everyone soul she encounters. Running allows her to feel free and complete milestones she didn’t think her body was capable of achieving. Today she engages in discussions with her peers about how her journey hasn’t been linear and continuing to discover the best version of herself.\nIf she could speak to her younger self, she would remind her that standing out is never a disadvantage; it is the catalyst for achieving your goals. All of your hard work will come to fruition. Most importantly, your light reaches further than you know, bringing warmth and joy to the people around you."
+  },
+  {
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Morehouse School of Medicine\nAtlanta, Georgia\n\nMaster of Public Health Degree Candidate — Expected May 2027\nSpecializing in Health Management and Policy and Biostatistics\n\n\n\n\nSpelman College\nAtlanta, Georgia\n\nBachelor of Science in Biology — Conferred June 2025\nEthel Waddell Githii Honors Program\nAlpha Lambda Delta Honor Society\nNational Council of Negro Women (2023–2025)"
+  },
+  {
+    "objectID": "Education.html#bachelor-of-science-in-biology-conferred-june-2025",
+    "href": "Education.html#bachelor-of-science-in-biology-conferred-june-2025",
+    "title": "Morehouse School of Medicine (Atlanta, Georgia)",
+    "section": "",
+    "text": "Ethel Waddell Githii Honors Program\nAlpha Lambda Delta Honor Society"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "MHRC Mentoring Research Fellowship Program – Intern (May 2026-Present)\nThe Association Between Insurance Type and Prenatal Care Utilization Authors: Kimaya Lacey, B.S., MPH; Natalie D. Hernandez-Green, PhD, MPH\nAffiliations: Morehouse School of Medicine; Morgan Maternal Health Research Coordinating Center\nBackground: The Southeastern United States continues to experience elevated rates of maternal mortality and morbidity, a crisis compounded by structural challenges including high healthcare costs, inadequate public transit, and hospital closures. Health insurance functions as a key political determinant of health, with Medicaid serving as an essential pathway to prenatal, delivery, and postpartum care. The objective is to evaluate the association between the type of health insurance coverage and the timing of a pregnant woman’s initial prenatal care visit.\nMethods: Population-based surveillance data were derived from the Maryland Pregnancy Risk Assessment Monitoring System (MD PRAMS) Phase 8 Codebook. Survey responses were converted into structured factor values using RStudio. Health insurance was categorized into three distinct levels: Public Insurance (Medicaid, CHIP), Private Insurance (employer-sponsored or commercial plans), and No Insurance (uninsured). Multiple Logistic Regression analysis was performed within RStudio to evaluate the odds of delayed prenatal care initiation while adjusting for federal poverty level (FPL) income.\nResults: The multivariable logistic regression analysis evaluated a sample size of N = 5,767. Having either public insurance (OR = 0.41, 95% CI: 0.28–0.60, p &lt; 0.001) or private insurance (OR = 0.44, 95% CI: 0.29–0.63, p &lt; 0.001) significantly reduced the odds of delayed prenatal care initiation compared to being uninsured. Both public and private insurance reduced the odds of delayed care by 56% to 59% relative to being uninsured, demonstrating that Medicaid matches private coverage in enabling timely entry into care. Only the highest income bracket (&gt;400% FPL) significantly reduced the odds of delayed prenatal care (OR = 0.71, 95% CI: 0.60–0.84, p &lt; 0.001). Low-to-moderate-income individuals (100%–400% FPL) faced odds of delayed care comparable to those living below the poverty line (&lt;100% FPL).\nConclusion & Implications: While insurance coverage effectively mitigates delays in accessing prenatal care, persistent income barriers affect individuals earning below 400% FPL regardless of coverage. Recommendations to address these disparities include streamlining presumptive Medicaid eligibility for immediate clinical access, expanding public insurance options, and engaging community health workers to address non-financial structural barriers.\n\n\n\n\n\n\n\nVirtual Data Science Summer Research Program – Intern (June 2024-July 2024)\nThe Development of Serotonin 5-HT2A Receptor Ligands for Mental Diseases Authors: Aubria King, Kimaya Lacey, James Addo, PhD\nAffiliations: Spelman College\nSerotonin 5-HT2A receptor agonists, including psychedelic compounds, have demonstrated significant clinical potential for treating severe psychiatric disorders such as schizophrenia and depression. The primary objective of this computational study was to predict and discover novel 5-HT2A receptor ligands with optimal binding affinities (measured as pKi) to facilitate the development of new mental health therapeutics. To identify potential candidates, an independent database of existing 5-HT2A receptor pKi values was compiled using data from the open-source CHEMBL and ZINC15 databases. This dataset was imported into Weka to train and evaluate various regression and classification machine learning algorithms. The models were assessed based on statistical metrics, with the most successful being the Random Forest (\\(R^2 = 0.8369\\)) and IBK (\\(R^2 = 0.9309\\)) algorithms. Leveraging these highly robust predictive models, alongside Maestro for structural visualization, the study identified four highly promising novel compounds with predicted pKi values ranging from 7.075 to 7.574. These predicted binding affinities are competitive when benchmarked against known psychedelic 5-HT2A agonists such as N,N-Dimethyltryptamine (pKi: 6.59), Mescaline (pKi: 6.44), and Psilocybin (pKi: 5.46). In conclusion, by leveraging open-source databases and machine learning, this research successfully predicted several novel, high-confidence ligands for the 5-HT2A receptor. Future work will focus on acquiring these commercially available compounds to experimentally validate their receptor binding affinities in vitro.\n\n\nCancer Research Experience for Undergraduates – Intern (Denver, Colorado | June 2023-August 2023)\nInvestigating the relationship between TDO2 and AR in Triple-negative breast cancer Authors: Kimaya Lacey, Li-Wei Kuo, Nicole Spoelstra, Jennifer K. Richer, PhD\nAffiliations: University of Colorado Anschutz Medical Campus\nTriple Negative Breast Cancer (TNBC) is an aggressive type of cancer that makes up approximately 10-15% of all breast cancers. TNBC is diagnosed by a lack of expression of progesterone receptors (PR), estrogen receptor (ER), and no amplification of the gene encoding the HER2 protein. This subtype of cancer is known to spread quickly and have a high reoccurrence rate as metastatic disease within five years after initial diagnosis. The individuals more likely to be diagnosed with TNBC are African American women, women younger than forty, Hispanic women, and women with BRCA1 gene mutation. A few common symptoms of TNBC include breast swelling, discharge from the areolas, dimpling of the skin, and a lump under the arm. The Richer lab previously published that both Androgen Receptor (AR) and Tryptophan 2,3-dioxygenase (TDO2), which is a key enzyme participating in Tryptophan (TRP) catabolism pathway, increased cells are surviving under anchorage-independent conditions. Interestingly, the Lehman group in a comprehensive TNBC sequencing study found that the luminal AR positive subset of TNBC presented a TRP catabolism pathway gene signature, which implicated a connection between AR and TRP catabolism. Two other manuscripts also found TRP catabolism pathway genes to be highly expressed in AR+ TNBC, although they did not focus on this pathway in these manuscripts. TDO2 catabolizes TRP to kynurenine, which serves as a ligand for the aryl hydrocarbon receptor (AhR). I observed that TNBC with high endogenous TDO2 expression tended to have high expression of AR . Also, recent studies demonstrated AhR inhibitor (CH223191) can reduce translocation of AR to nuclear and AR promoter transcription activity in prostate cancers. Therefore, I hypothesized that TDO2 and AR positively regulate the expression of each other, perhaps through AhR, and collaborate to promote TNBC progression."
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "My Professional Journey",
+    "section": "",
+    "text": "📄 Click here to view Kimaya Lacey’s Resume"
+  },
+  {
+    "objectID": "Resume.html#my-resume",
+    "href": "Resume.html#my-resume",
+    "title": "Resume",
+    "section": "",
+    "text": "📄 View My Resume"
+  },
+  {
+    "objectID": "index.html#areas-of-interest",
+    "href": "index.html#areas-of-interest",
+    "title": "Kimaya D. Lacey, B.S.",
+    "section": "",
+    "text": "Maternal & Child Health\nBlack Maternal Health\nHealth Equity\nHealthcare Operations\nHealth Policy\nBiostatistics\nCommunity Health\n\n\n\n\n\nResearch focused on prenatal and postpartum care, maternal mortality, and healthcare access.\n\n\n\n\nUsing data visualization and statistical methods to examine public health problems.\n\n\n\n\nExploring healthcare operations, policy, and strategies to improve patient outcomes."
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Let’s Connect\nI would love to connect with other public health professionals, researchers, students, and organizations working to improve health outcomes and advance health equity.\n\n\n✉️ Email\nSend a warm message\n\n\n💼 LinkedIn\nConnect with me on LinkedIn\n\n\n💻 GitHub\nView my GitHub"
+  }
+]

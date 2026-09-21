@@ -1,0 +1,61 @@
+/* css styles */
+/* Main website colors */
+
+:root {
+  --main-color: #8E3A50;      /* Soft Purple */
+  --accent-color: #C76D7E;    /* Pastel Peach */
+  --light-color: #FAF7FC;     /* Soft Lavender White */
+  --text-color: #4A4546;      /* Soft Charcoal */
+}
+
+/* Website navigation bar */
+.navbar {
+  background-color: var(--main-color);
+}
+
+/* Navigation text */
+.navbar a {
+  color: white !important;
+}
+
+/* Page headings */
+h1, h2, h3 {
+  color: var(--main-color);
+}
+
+/* Links */
+a {
+  color: var(--main-color);
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--main-color);
+  border-color: var(--main-color);
+}
+
+/* Page background */
+body {
+  background-color: var(--light-color);
+  color: var(--text-color);
+}
+
+hr {
+  border: none;
+  border-top: 2px solid var(--main-color);
+  margin: 30px 0;
+}
+
+.btn-primary {
+  background-color: var(--main-color);
+  border-color: var(--main-color);
+}
+
+.btn-primary:hover {
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+}
+
+body {
+  font-family: "Times New Roman", serif;
+}

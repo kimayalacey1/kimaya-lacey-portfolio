@@ -1,0 +1,10 @@
+---
+title: "My Professional Journey"
+
+---
+
+<div style="text-align: center;">
+
+
+[📄 Click here to view Kimaya Lacey's Resume](LaceyResume.pdf)
+

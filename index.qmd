@@ -1,0 +1,50 @@
+---
+image: "WBL_1243.jpg"
+image-alt: "Kimaya Lacey"
+---
+
+
+<div style="text-align: center;">
+
+# Kimaya D. Lacey, B.S.
+![](WBL_1243.jpg){width=50%}
+
+
+A Master of Public Health student interested in maternal
+health, health equity, healthcare operations, and health policy.
+
+Her work focuses on understanding how healthcare systems can
+better support underserved populations and improve maternal
+and population health outcomes.
+
+
+::: {.columns}
+
+::: {.column width="33%"}
+
+###  Maternal Health
+
+Research focused on prenatal and postpartum care, maternal mortality,
+and healthcare access.
+
+:::
+
+::: {.column width="33%"}
+
+###  Data & Biostatistics
+
+Using data visualization and statistical methods to examine
+public health problems.
+
+:::
+
+::: {.column width="33%"}
+
+###  Healthcare Systems
+
+Exploring healthcare operations, policy, and strategies to improve
+patient outcomes.
+
+:::
+
+:::
